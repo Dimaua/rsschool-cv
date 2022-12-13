@@ -11,11 +11,11 @@
 * JavaScript
 * Git/GitHub
 # Education
-* National University of water and environmental engeeniring
+* _National University of water and environmental engeeniring_
 + Civil engineering
-* Udemy
+* _Udemy_
 + HTML/CSS/JS
 + Cypress
 # Languages
-* Ukrainian - native
-* English - B1
+* _Ukrainian_ - native
+* _English_ - B1
