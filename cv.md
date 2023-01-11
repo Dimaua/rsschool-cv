@@ -3,6 +3,7 @@
 ## Phone: +380 0674200957
 ## E-mail: dimarugby@gamil.com
 ## GitHub: Dimaua
+## Discord: Dima Mishchuk#7548
 # About Me
 ### I am 48 years old, I am unemployed right now. My goal is to gain knowledge in the field of front-end development. 
 # Skills
